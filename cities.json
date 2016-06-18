@@ -6073,5 +6073,30 @@
         "id": "1215",
         "name": "Sarsod",
         "state": "Haryana"
+    },
+    {
+        "id": "1216",
+        "name": "Munnar",
+        "state": "Kerala"
+    },
+    {
+        "id": "1217",
+        "name": "Trivandrum",
+        "state": "Kerala"
+    },
+    {
+        "id": "1218",
+        "name": "Kodaikanal",
+        "state": "Tamil Nadu"
+    },
+    {
+        "id": "1219",
+        "name": "Thekkady",
+        "state": "Kerala"
+    },
+    {
+        "id": "1218",
+        "name": "Wayanad",
+        "state": "Kerala"
     }
 ]
